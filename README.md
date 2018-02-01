@@ -1,4 +1,4 @@
-# hello-world
+# DataScience
 
-hi humans
-my name is RGC, I'm new to GitHub. 
+Prof. Roberto Garcia-Castro
+Managerial Decision Sciences, IESE Business School
